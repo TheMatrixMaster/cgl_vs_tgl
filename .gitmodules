@@ -1,0 +1,3 @@
+[submodule "DyGLib"]
+	path = DyGLib
+	url = https://github.com/yule-BUAA/DyGLib.git
