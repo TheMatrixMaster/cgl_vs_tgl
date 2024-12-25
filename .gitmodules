@@ -1,3 +1,6 @@
 [submodule "DyGLib"]
 	path = DyGLib
 	url = https://github.com/yule-BUAA/DyGLib.git
+[submodule "CGLB"]
+	path = CGLB
+	url = https://github.com/QueuQ/CGLB.git
